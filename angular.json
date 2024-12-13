@@ -148,7 +148,6 @@
             }
         }
     },
-    "defaultProject": "usama-yaseen",
     "schematics": {
         "@schematics/angular:component": {
             "styleext": "scss"
